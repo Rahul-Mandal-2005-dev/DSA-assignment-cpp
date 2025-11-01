@@ -161,7 +161,7 @@ int main()
                     break;
                 }
                 list2.insert(val);
-            }
+            } 
             list1.concatenate(list2);
             break;
         case 7:
